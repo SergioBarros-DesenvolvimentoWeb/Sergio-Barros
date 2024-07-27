@@ -24,6 +24,7 @@ Unity Engine -> Intermediário
 C#,
 O foco do planejamento é focar nos estudos de C# ( Principalmente no desenvolvimento do C# Puro ), pois com isso é possível aprender e desenvolver futuramente com o DotNet Framework
 ( Desenvolver com Blazor, MAUI... )
+ E pra que isso possa acontecer, adquiri o Curso <a href="https://www.udemy.com/course/logica-de-programacao-csharp/?couponCode=MCLARENT71824">C# primeiros passos: Lógica de Programação e Algoritmos</a> para poder retomar meus estudos da linguagem
 
 PHP,
 Será o que estarei aperfeiçoando o que sei hoje,
@@ -31,6 +32,9 @@ desenvolvendo alguns sistemas simples como projetos utilizando CRUD, Sistemas de
 
 E com HTML/CSS,
 estarei revendo o que sei, pois é muito utilizado com PHP e principalmente no C# pois é usado demais com Blazor para fazer os sites e sistemas web !
+
+E como hoje é muito comum que todo desenvolvedor utilize o GitHub, em empresas normalmente se utiliza i Git
+então eu também adquiri o curso <a href="https://www.udemy.com/course/aprenda-git-e-github/?couponCode=MCLARENT71824">Git e GitHub do básico ao avançado</a> para poder estar por dentro da ferramenta e não ficar para trás comparado aos outros desenvolvedores !
 
 ## Funcionalidades
 
