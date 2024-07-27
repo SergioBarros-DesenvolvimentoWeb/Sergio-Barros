@@ -49,14 +49,6 @@ MySQL -> Banco de Dados, gerenciamento de informações salvas
 
 HTML/CSS -> Estrutura básica de sites simples/estáticos
 
---
-
-<a href="https://www.udemy.com/course/logica-de-programacao-csharp/?couponCode=MCLARENT71824">C# primeiros passos: Lógica de Programação e Algoritmos</a>
-
---
-
-<a href="https://www.udemy.com/course/aprenda-git-e-github/?couponCode=MCLARENT71824">Git e GitHub do básico ao avançado</a>
-
 ## Tecnologias Utilizadas
 
 - Linguagem de Programação: **C#, PHP, MySQL, HTML, CSS**
