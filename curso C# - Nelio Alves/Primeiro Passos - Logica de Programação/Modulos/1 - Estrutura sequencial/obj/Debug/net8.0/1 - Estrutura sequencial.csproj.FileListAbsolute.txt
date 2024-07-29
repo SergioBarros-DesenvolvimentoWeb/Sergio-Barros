@@ -1,0 +1,15 @@
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\bin\Debug\net8.0\1 - Estrutura sequencial.exe
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\bin\Debug\net8.0\1 - Estrutura sequencial.deps.json
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\bin\Debug\net8.0\1 - Estrutura sequencial.runtimeconfig.json
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\bin\Debug\net8.0\1 - Estrutura sequencial.dll
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\bin\Debug\net8.0\1 - Estrutura sequencial.pdb
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\obj\Debug\net8.0\1 - Estrutura sequencial.GeneratedMSBuildEditorConfig.editorconfig
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\obj\Debug\net8.0\1 - Estrutura sequencial.AssemblyInfoInputs.cache
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\obj\Debug\net8.0\1 - Estrutura sequencial.AssemblyInfo.cs
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\obj\Debug\net8.0\1 - Estrutura sequencial.csproj.CoreCompileInputs.cache
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\obj\Debug\net8.0\1 - Estrutura sequencial.sourcelink.json
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\obj\Debug\net8.0\1 - Estrutura sequencial.dll
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\obj\Debug\net8.0\refint\1 - Estrutura sequencial.dll
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\obj\Debug\net8.0\1 - Estrutura sequencial.pdb
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\obj\Debug\net8.0\1 - Estrutura sequencial.genruntimeconfig.cache
+c:\xampp\htdocs\GitHub\Projetos\curso C# - Nelio Alves\Primeiro Passos - Logica de Programação\Modulos\1 - Estrutura sequencial\obj\Debug\net8.0\ref\1 - Estrutura sequencial.dll
